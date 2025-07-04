@@ -14,6 +14,7 @@ Severity distribution across districts The insights are visualized in a Power BI
 
 
 🧠 Key Insights
+
 Majority of accidents are *slight, but *fatal accidents are higher in rural and poorly lit roads.
 
 Saturday  and evenings (4–7 PM) show accident spikes.
