@@ -16,9 +16,9 @@ Severity distribution across districts The insights are visualized in a Power BI
 🧠 Key Insights
 Majority of accidents are *slight, but *fatal accidents are higher in rural and poorly lit roads.
 
-Fridays and evenings (4–7 PM) show accident spikes.
+Saturday  and evenings (4–7 PM) show accident spikes.
 
-Districts like [TopDistrict1] and [TopDistrict2] recorded the highest accident frequency.
+Districts like [Brimimgham] and [Bradfoad] recorded the highest accident frequency.
 
 Environmental conditions like wet roads and darkness correlate with higher severity.
 
